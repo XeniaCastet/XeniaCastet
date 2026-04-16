@@ -1,4 +1,3 @@
-## Hi there 👋
 QA Tester enfocada en entender cómo funcionan los sistemas y detectar problemas que realmente afectan al usuario.
 
 Vengo del ámbito sanitario, donde aprendí a analizar situaciones con detalle y comunicar lo que está pasando de forma clara. Ahora aplico esa misma forma de trabajar en testing dentro del entorno tecnológico.
